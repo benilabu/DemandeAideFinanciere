@@ -13,9 +13,7 @@ namespace DemandeAideFinanciere.Core
     {
 
         public string Password { get; set; } = string.Empty;
-
         public string Nas {  get; set; } = string.Empty;
-
         public string Code_permanent { get; set; } = string.Empty;
         public string Birthday { get; set; } = string.Empty;
 
